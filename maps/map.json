@@ -709,7 +709,7 @@
          "height":64,
          "id":3,
          "name":"abovePlayer1",
-         "opacity":0.29,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":64,
